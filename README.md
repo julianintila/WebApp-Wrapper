@@ -6,22 +6,22 @@ The tool is designed for non-interactive builds, automation, and local admin or 
 
 ## ✨ Features
 
-• 🖥️ Desktop UI (no terminal required)
-• 📦 Builds Android apps using Expo EAS
-• 🔐 Secure authentication using EXPO_TOKEN
-• 📜 Live build logs inside the UI
-• 🚫 Fully non-interactive (no CLI prompts)
-• ⚡ Ideal for automation, WebApp, or admin tools
+- 🖥️ Desktop UI (no terminal required)
+- 📦 Builds Android apps using Expo EAS
+- 🔐 Secure authentication using EXPO_TOKEN
+- 📜 Live build logs inside the UI
+- 🚫 Fully non-interactive (no CLI prompts)
+- ⚡ Ideal for automation, WebApp, or admin tools
 
 ## ✅ Prerequisites
 
 ### Make sure the following are installed:
 
-• Python 3.9+
-• Node.js (LTS)
-• Expo CLI
-• EAS CLI
-• Git
+- Python 3.9+
+- Node.js (LTS)
+- Expo CLI
+- EAS CLI
+- Git
 
 ### Install Expo & EAS CLI:
 
@@ -38,8 +38,8 @@ Set it once in your system environment variables:
 
 1. Search → Environment Variables
 2. Add new User Variable
-   • Name: EXPO_TOKEN
-   • Value: your_expo_token_here
+   - Name: EXPO_TOKEN
+   - Value: your_expo_token_here
 
 ```
 echo %EXPO_TOKEN%
@@ -64,9 +64,9 @@ python eas_build_ui.py
 ```
 
 1. A desktop window will open where you can:
-   • Click Build Android App
-   • View live EAS build logs
-   • Receive success or error notifications
+   - Click Build Android App
+   - View live EAS build logs
+   - Receive success or error notifications
 
 ## ⚙️ Build Configuration
 
