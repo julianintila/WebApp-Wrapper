@@ -78,4 +78,4 @@ eas build --platform android --profile production --non-interactive
 
 ## 🙌 Author
 
-Developed by Julian
+Developed by Julian Intila
