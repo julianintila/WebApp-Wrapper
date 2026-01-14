@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { BackHandler, Alert, SafeAreaView, StyleSheet } from 'react-native';
 import { WebView } from 'react-native-webview';
 
-const APP_URL = 'http://192.168.1.226/NEWKIOSK';
+const APP_URL = 'http://192.168.1.109/NEWKIOSK';
 
 export default function App() {
   useEffect(() => {
